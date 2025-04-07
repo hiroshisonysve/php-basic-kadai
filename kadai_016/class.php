@@ -27,7 +27,7 @@
     }
     $food = new Food('potato', 250);
     print_r($food);
-    echo '<br';
+    echo '<br>';
 
     class Animal
     {
